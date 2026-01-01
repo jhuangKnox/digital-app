@@ -148,13 +148,14 @@ class _InvenTreeSettingsState extends State<InvenTreeSettingsWidget> {
                 );
               },
             ),
+            /*
             Divider(),
             ListTile(
               title: Text(L10().about),
               leading: Icon(TablerIcons.info_circle, color: COLOR_ACTION),
               trailing: LinkIcon(),
               onTap: _about,
-            ),
+            ), */
           ],
         ),
       ),

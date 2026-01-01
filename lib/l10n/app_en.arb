@@ -1,9 +1,9 @@
 {
   "@@locale": "en",
 
-  "appTitle": "InvenTree",
+  "appTitle": "KnoxIMS",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "KnoxIMS application title string"
   },
 
   "ok": "OK",
@@ -38,7 +38,7 @@
   "address": "Address",
   "@address": {},
 
-  "appAbout": "About InvenTree",
+  "appAbout": "About KnoxIMS",
   "@appAbout": {},
 
   "appCredits": "Additional app credits",
@@ -74,7 +74,7 @@
   "appSettings": "App Settings",
   "@appSettings": {},
 
-  "appSettingsDetails": "Configure InvenTree app settings",
+  "appSettingsDetails": "Configure KnoxIMS app settings",
   "@appSettingsDetails": {},
 
   "assignedToMe": "Assigned to Me",
@@ -166,7 +166,7 @@
   "barcodeScanDelayDetail": "Delay between barcode scans",
   "@barcodeScanDelayDetail": {},
 
-  "barcodeScanGeneral":  "Scan an InvenTree barcode",
+  "barcodeScanGeneral":  "Scan an KnoxIMS barcode",
   "@barcodeScanGeneral": {},
 
   "barcodeScanInItems": "Scan stock items into this location",
@@ -1034,7 +1034,7 @@
   "profileNotSelected": "No Profile Selected",
   "@profileNotSelected": {},
 
-  "profileSelect": "Select InvenTree Server",
+  "profileSelect": "Select KnoxIMS Server",
   "@profileSelect": {},
 
   "profileSelectOrCreate": "Select server or create a new profile",
@@ -1666,7 +1666,7 @@
   "translate": "Translate",
   "@translate": {},
 
-  "translateHelp": "Help translate the InvenTree app",
+  "translateHelp": "Help translate the KnoxIMS app",
   "@translateHelp": {},
 
   "unavailable": "Unavailable",

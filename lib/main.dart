@@ -138,9 +138,9 @@ class InvenTreeAppState extends State<StatefulWidget> {
       String notes = await rootBundle.loadString("assets/release_notes.md");
 
       // Show the release notes
-      OneContext().push(
-        MaterialPageRoute(builder: (context) => ReleaseNotesWidget(notes)),
-      );
+      /* OneContext().push(
+         MaterialPageRoute(builder: (context) => ReleaseNotesWidget(notes)),
+       ); */
     }
   }
 

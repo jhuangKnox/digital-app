@@ -199,8 +199,8 @@ class UserProfileDBManager {
         await InvenTreeSettingsManager().setValue("demo_profile_added", true);
 
         UserProfile demoProfile = UserProfile(
-          name: "InvenTree Demo",
-          server: "https://demo.inventree.org",
+          name: "Knox IMS",
+          server: "https://ims.knoxdigital.online",
         );
 
         await addProfile(demoProfile);
