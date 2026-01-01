@@ -45,7 +45,7 @@
 		<string>zh-TW</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>InvenTree</string>
+	<string>KnoxIMS</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -64,11 +64,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Camera permission is required to scan product barcodes and upload images to your InvenTree server</string>
+	<string>Camera permission is required to scan product barcodes and upload images to your KnoxIMS server</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Record videos using the camera to upload to InvenTree</string>
+	<string>Record videos using the camera to upload to KnoxIMS</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Select photos from library to upload to your InvenTree server</string>
+	<string>Select photos from library to upload to your KnoxIMS server</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>

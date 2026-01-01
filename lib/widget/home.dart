@@ -174,7 +174,7 @@ class _InvenTreeHomePageState extends State<InvenTreeHomePage>
     homeShowSubscribed =
         await InvenTreeSettingsManager().getValue(
               INV_HOME_SHOW_SUBSCRIBED,
-              true,
+              false,
             )
             as bool;
     homeShowPo =
@@ -195,7 +195,10 @@ class _InvenTreeHomePageState extends State<InvenTreeHomePage>
             )
             as bool;
     homeShowCustomers =
-        await InvenTreeSettingsManager().getValue(INV_HOME_SHOW_CUSTOMERS, true)
+        await InvenTreeSettingsManager().getValue(
+              INV_HOME_SHOW_CUSTOMERS,
+              false,
+            )
             as bool;
     homeShowSuppliers =
         await InvenTreeSettingsManager().getValue(INV_HOME_SHOW_SUPPLIERS, true)
